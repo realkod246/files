@@ -15,7 +15,8 @@ int main( )
    {
 	   output << a;
 	   output <<" " << b;
-	   output <<" " << c;
+	   output <<" " << c << endl;
+	   
 	 }  
    
 	else
